@@ -1,16 +1,16 @@
-### Hi there 👋
+# 👋 Olá, me chamo Kauan Guilherme 👋
 
-<!--
-**KauanGPDS/KauanGPDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Sou um estudante de Ciência da Computação, atualmente cursando o programa Cubos Academy. Estou em busca de oportunidades de estágio ou emprego como desenvolvedor júnior e estou pronto para encarar os desafios do dia a dia.
 
-Here are some ideas to get you started:
+🌆 Moro em Salvador, Bahia, e estou ansioso para entrar no mercado de trabalho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Linguagens e Bancos de Dados
+
+- Linguagens: JavaScript/Node.js, Java, C#
+- Bancos de Dados: SQL/MySQL, PostgreSQL
+
+## 🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/kauan-guilherme-pinto-2b0a4b21b/)
+
+Sinta-se à vontade para entrar em contato pelo LinkedIn para discutir oportunidades emocionantes ou para trocar ideias sobre tecnologia!
