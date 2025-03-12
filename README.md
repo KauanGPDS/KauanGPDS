@@ -1,6 +1,6 @@
 # 👋 Olá, me chamo Kauan Guilherme 👋
 
-🎓 Sou um estudante de Ciência da Computação, atualmente no 4º semestre da UNIFACS. Estou em busca de oportunidades de estágio ou emprego como desenvolvedor júnior e estou pronto para encarar os desafios do dia a dia.
+🎓 Sou um estudante de Ciência da Computação, atualmente no 5º semestre da UNIFACS. Estou em busca de oportunidades de estágio ou emprego como desenvolvedor júnior e estou pronto para encarar os desafios do dia a dia.
 
 🌆 Moro em Salvador, Bahia, e estou ansioso para entrar no mercado de trabalho.
 
